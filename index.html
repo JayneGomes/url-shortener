@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css\style.css" />
+    <script src="js\scripts.js" defer></script>
+
+    <title>Gerador de UTM e Encurtador de links</title>
+  </head>
+  <body>
+    <header class="header">
+      <h1>Encurtador e Gerador de UTM</h1>
+    </header>
+    <main>
+      <div class="form">
+        <div class="token">
+          <label for="text">TOKEN do Bitly: </label>
+          <input
+            type="text"
+            id="token-input"
+            placeholder="Ex: 7f7d56e8a7b247d7b6596ad71f3b8bb9"
+          />
+        </div>
+        <div class="url">
+          <label for="text">Url: </label>
+          <input
+            type="text"
+            id="url-input"
+            placeholder="Ex: https://www.facebook.com/"
+          />
+        </div>
+        <div class="searchMedium">
+          <div class="form-control">
+            <label for="number">Origens: </label>
+            <input type="text" id="source-input" placeholder="Ex: stories" />
+          </div>
+          <div class="form-control">
+            <label for="number">Mídia: </label>
+            <input type="text" id="medium-input" value="instagram" />
+          </div>
+          <span class="obs">
+            Você pode colocar mais de uma origem, separadas por vírgula.</span
+          >
+        </div>
+        <input class="button" type="submit" value="Encurtar links" />
+      </div>
+      <div class="links-list">
+        <h2>Links gerados:</h2>
+        <div class="links">
+          <p>Seus links aparecerão aqui</p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
