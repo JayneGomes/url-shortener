@@ -17,7 +17,7 @@
   <li>Digite a mídia desejada no campo "Mídia"</li>
   <li>Clique no botão "Encurtar links"</li>
 </ol>
-<p>Pronto, agora seus links irão aparecer na aba "Links gerados"</p>
+<p>Pronto, agora seus links aparecerão na aba "Links gerados"</p>
 
 <h3>Por que utilizar UTM?</h3>
 <p>O papel da UTM é estabelecer os parâmetros de rastreamento necessários para que o Google Analytics e outras ferramentas possam capturar os dados das campanhas.</p>
@@ -29,9 +29,9 @@
 
 <h5>Veja alguns exemplos de resultados que conseguimos medir com o uso de UTMs:</h5>
 <ul>
-  <li>→ Saber quantas pessoas clicaram em cada CTA de um Email Marketing específico</li>
-  <li>→ Identificar qual rede social está gerando mais acessos depois da divulgação de um material rico</li>
-  <li>→ Rastrear o volume de tráfego para um dos conteúdos do seu blog</li>
+  <li>Saber quantas pessoas clicaram em cada CTA de um Email Marketing específico</li>
+  <li>Identificar qual rede social está gerando mais acessos depois da divulgação de um material rico</li>
+  <li>Rastrear o volume de tráfego para um dos conteúdos do seu blog</li>
 </ul>
  
   
