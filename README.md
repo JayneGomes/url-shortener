@@ -2,7 +2,7 @@
 <h3>Primeiro você precisa gerar o Token do Bitly</h3>
   <ol>
     <li>Faça o login ou crie a sua conta grátis do Bit.ly</li>
-    <li><a href="https://www.w3schools.com](https://app.bitly.com/settings/api">Clique neste link</a> </li>
+    <li><a href="https://app.bitly.com/settings/api">Clique neste link</a> </li>
     <li>Preencha sua senha em "Enter password"</li>
     <li>Clique no botão "Generate token"</li>
     <li>Copie o token gerado</li>
